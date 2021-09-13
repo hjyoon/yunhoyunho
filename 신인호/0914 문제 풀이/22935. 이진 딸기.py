@@ -8,8 +8,8 @@ sys.stdin = open(f"{parent_dir}\{file_name} input.txt")
 input = sys.stdin.readline
 
 
-CYCLE = 15 + 13
 AXIS = 15
+CYCLE = 2 * AXIS - 2
 
 T = int(input())
 for _ in range(T):
