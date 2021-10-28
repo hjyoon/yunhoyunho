@@ -1,0 +1,7 @@
+6 6
+new 4 1
+new 4 2
+in 1 1
+new 4 3
+out 2 4
+new 4 2
